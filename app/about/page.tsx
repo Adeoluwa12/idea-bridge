@@ -231,10 +231,10 @@ export default function AboutPage() {
               <CardHeader>
                 <div className="flex flex-col items-center">
                   <Avatar className="h-24 w-24 mb-4">
-                    <AvatarImage src="/placeholder.svg?height=100&width=100" alt="Oluwaseun Adeyemi" />
+                    <AvatarImage src="/placeholder.svg?height=100&width=100" alt="Oluwaferanmi Adeoye" />
                     <AvatarFallback>OA</AvatarFallback>
                   </Avatar>
-                  <CardTitle>Oluwaseun Adeyemi</CardTitle>
+                  <CardTitle>Oluwaferami Adeoye</CardTitle>
                   <CardDescription>Founder & CEO</CardDescription>
                 </div>
               </CardHeader>
