@@ -196,7 +196,7 @@ export default function Home() {
             <div className="space-y-2">
               <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">Success Stories</h2>
               <p className="max-w-[900px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                See how IDEABOX Nigeria has helped transform ideas into reality.
+                See how IDEABRIDGE Nigeria has helped transform ideas into reality.
               </p>
             </div>
           </div>
@@ -208,7 +208,7 @@ export default function Home() {
               </CardHeader>
               <CardContent>
                 <p className="text-sm text-muted-foreground">
-                  "IDEABOX helped me connect with investors who believed in my smart irrigation system. Now we're
+                  "IDEABRIDGE helped me connect with investors who believed in my smart irrigation system. Now we're
                   helping farmers across Nigeria."
                 </p>
               </CardContent>
@@ -221,7 +221,7 @@ export default function Home() {
               </CardHeader>
               <CardContent>
                 <p className="text-sm text-muted-foreground">
-                  "My app connecting rural patients with doctors found mentorship and legal support through IDEABOX.
+                  "My app connecting rural patients with doctors found mentorship and legal support through IDEABRIDGE.
                   We've helped thousands access healthcare."
                 </p>
               </CardContent>
@@ -234,7 +234,7 @@ export default function Home() {
               </CardHeader>
               <CardContent>
                 <p className="text-sm text-muted-foreground">
-                  "From idea to nationwide implementation, IDEABOX guided our journey to create accessible educational
+                  "From idea to nationwide implementation, IDEABRIDGE guided our journey to create accessible educational
                   content for underserved communities."
                 </p>
               </CardContent>
